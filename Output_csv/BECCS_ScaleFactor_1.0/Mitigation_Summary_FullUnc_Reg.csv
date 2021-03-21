@@ -1,0 +1,194 @@
+1p5deg: 
+Median of GCMs:
+                  Region,   CH4_mit,NatLand_mit,  CCS_mit,LULUC_mit,Linear_mit,
+                  Canada,       2.90,      0.15,      0.02,      0.16,      3.08
+                     USA,      15.13,      1.30,      0.70,      2.00,     17.16
+                  Mexico,       1.96,      1.00,      0.44,      1.41,      3.39
+         Central America,       1.04,      0.24,      0.06,      0.30,      1.34
+                  Brazil,       7.66,      5.84,      1.72,      7.68,     15.40
+   Rest of South America,       9.66,      4.20,      1.32,      5.51,     15.13
+         Northern Africa,       2.19,      0.00,      0.00,      0.00,      2.19
+          Western Africa,       8.04,     17.63,      0.02,     17.65,     25.71
+          Eastern Africa,       4.23,      1.97,      0.12,      2.12,      6.35
+            South Africa,      12.48,     -0.13,      0.00,     -0.13,     12.36
+          Western Europe,       8.50,     -0.27,      0.39,      0.12,      8.62
+          Central Europe,       4.11,     -0.33,      0.24,     -0.09,      4.02
+                  Turkey,       1.69,     -0.02,      0.00,     -0.02,      1.66
+          Ukraine Region,       2.29,     -0.13,      0.14,      0.01,      2.31
+            Central Asia,       6.40,      0.02,      0.00,      0.02,      6.44
+           Russia region,      10.89,      0.84,      0.15,      1.02,     11.90
+             Middle East,      10.54,      0.00,      0.00,      0.00,     10.55
+                   India,      27.34,      0.18,      0.00,      0.20,     27.56
+            Korea region,       0.79,     -0.11,      0.13,      0.01,      0.80
+            China region,      30.18,     -0.23,      1.36,      1.09,     31.31
+       Southeastern Asia,       8.99,      1.52,      0.88,      2.40,     11.42
+        Indonesia region,       4.85,      0.77,      0.00,      0.77,      5.61
+                   Japan,       0.73,     -0.04,      0.10,      0.06,      0.79
+                 Oceania,       7.59,      1.71,      0.20,      1.97,      9.57
+      Rest of South Asia,       5.35,      0.13,      0.00,      0.13,      5.48
+ Rest of Southern Africa,       1.79,      4.87,      1.49,      6.41,      8.23
+International Transportation,       0.00,      0.00,      0.00,      0.00,      0.00
+                  Global,     197.31,     41.82,      9.31,     51.18,    248.96
+
+
+
+25% of GCMs: 
+                  Region,   CH4_mit,NatLand_mit,  CCS_mit,LULUC_mit,Linear_mit,
+                  Canada,       2.77,      0.12,      0.01,      0.13,      2.91
+                     USA,      14.44,      0.58,      0.36,      1.64,     16.62
+                  Mexico,       1.87,      0.83,      0.41,      1.33,      3.34
+         Central America,       0.99,      0.20,      0.05,      0.26,      1.30
+                  Brazil,       7.31,      5.28,      1.63,      7.24,     15.18
+   Rest of South America,       9.22,      3.73,      1.20,      5.14,     14.90
+         Northern Africa,       2.09,      0.00,      0.00,      0.00,      2.09
+          Western Africa,       7.67,     16.30,      0.01,     16.31,     24.68
+          Eastern Africa,       4.04,      1.88,      0.09,      2.00,      6.28
+            South Africa,      11.90,     -0.14,      0.00,     -0.14,     11.78
+          Western Europe,       8.11,     -0.43,      0.10,      0.07,      8.18
+          Central Europe,       3.92,     -0.44,      0.07,     -0.15,      3.77
+                  Turkey,       1.61,     -0.03,      0.00,     -0.03,      1.58
+          Ukraine Region,       2.19,     -0.25,      0.00,     -0.03,      2.16
+            Central Asia,       6.10,      0.01,      0.00,      0.01,      6.13
+           Russia region,      10.39,      0.64,      0.03,      0.95,     11.44
+             Middle East,      10.06,      0.00,      0.00,      0.00,     10.06
+                   India,      26.08,      0.15,      0.00,      0.18,     26.28
+            Korea region,       0.75,     -0.23,      0.00,     -0.01,      0.75
+            China region,      28.79,     -0.43,      1.03,      1.02,     29.82
+       Southeastern Asia,       8.58,      1.33,      0.86,      2.20,     11.13
+        Indonesia region,       4.63,      0.68,      0.00,      0.68,      5.46
+                   Japan,       0.70,     -0.16,      0.00,      0.05,      0.75
+                 Oceania,       7.24,      1.60,      0.19,      1.87,      9.34
+      Rest of South Asia,       5.10,      0.12,      0.00,      0.12,      5.25
+ Rest of Southern Africa,       1.71,      4.68,      0.96,      6.22,      8.09
+International Transportation,       0.00,      0.00,      0.00,      0.00,      0.00
+                  Global,     188.24,     36.12,      7.19,     48.08,    241.91
+
+
+
+75% of GCMs: 
+                  Region,   CH4_mit,NatLand_mit,  CCS_mit,LULUC_mit,Linear_mit,
+                  Canada,       3.04,      0.21,      0.02,      0.23,      3.25
+                     USA,      15.83,      1.88,      1.07,      2.20,     17.50
+                  Mexico,       2.05,      1.05,      0.48,      1.50,      3.45
+         Central America,       1.08,      0.28,      0.06,      0.34,      1.37
+                  Brazil,       8.02,      6.58,      2.03,      8.19,     15.61
+   Rest of South America,      10.11,      4.56,      1.47,      5.75,     15.53
+         Northern Africa,       2.29,      0.00,      0.00,      0.00,      2.30
+          Western Africa,       8.41,     19.04,      0.02,     19.05,     26.73
+          Eastern Africa,       4.43,      2.14,      0.15,      2.26,      6.43
+            South Africa,      13.05,     -0.13,      0.01,     -0.12,     12.93
+          Western Europe,       8.89,     -0.04,      0.59,      0.18,      9.08
+          Central Europe,       4.30,     -0.22,      0.46,      0.02,      4.32
+                  Turkey,       1.76,     -0.02,      0.00,     -0.02,      1.75
+          Ukraine Region,       2.40,     -0.03,      0.31,      0.06,      2.46
+            Central Asia,       6.69,      0.03,      0.00,      0.03,      6.72
+           Russia region,      11.39,      1.02,      0.28,      1.07,     12.37
+             Middle East,      11.03,      0.01,      0.00,      0.01,     11.04
+                   India,      28.61,      0.20,      0.12,      0.22,     28.82
+            Korea region,       0.83,     -0.01,      0.26,      0.04,      0.86
+            China region,      31.58,     -0.01,      1.61,      1.20,     32.75
+       Southeastern Asia,       9.41,      1.65,      0.90,      2.54,     11.60
+        Indonesia region,       5.07,      0.84,      0.00,      0.84,      5.75
+                   Japan,       0.76,      0.05,      0.23,      0.07,      0.83
+                 Oceania,       7.94,      1.88,      0.27,      2.08,      9.81
+      Rest of South Asia,       5.59,      0.15,      0.00,      0.15,      5.71
+ Rest of Southern Africa,       1.87,      5.60,      1.59,      6.58,      8.34
+International Transportation,       0.00,      0.00,      0.00,      0.00,      0.00
+                  Global,     206.45,     46.59,     11.93,     53.82,    254.29
+2deg: 
+Median of GCMs:
+                  Region,   CH4_mit,NatLand_mit,  CCS_mit,LULUC_mit,Linear_mit,
+                  Canada,       2.98,      0.13,      0.02,      0.15,      3.12
+                     USA,      15.51,      1.42,      0.82,      2.14,     17.68
+                  Mexico,       2.01,      1.13,      0.40,      1.54,      3.54
+         Central America,       1.06,      0.30,      0.05,      0.36,      1.43
+                  Brazil,       7.85,      6.68,      1.71,      8.47,     16.41
+   Rest of South America,       9.90,      4.65,      1.30,      6.04,     15.95
+         Northern Africa,       2.24,      0.00,      0.00,      0.00,      2.25
+          Western Africa,       8.24,     20.31,      0.01,     20.33,     28.66
+          Eastern Africa,       4.34,      2.13,      0.12,      2.28,      6.62
+            South Africa,      12.79,     -0.13,      0.00,     -0.13,     12.67
+          Western Europe,       8.71,     -0.25,      0.37,      0.11,      8.84
+          Central Europe,       4.21,     -0.28,      0.19,     -0.08,      4.13
+                  Turkey,       1.73,     -0.03,      0.00,     -0.03,      1.71
+          Ukraine Region,       2.35,     -0.12,      0.12,      0.01,      2.35
+            Central Asia,       6.55,      0.02,      0.00,      0.02,      6.58
+           Russia region,      11.16,      0.84,      0.18,      1.03,     12.27
+             Middle East,      10.80,      0.00,      0.00,      0.00,     10.81
+                   India,      28.02,      0.21,      0.00,      0.22,     28.30
+            Korea region,       0.81,     -0.12,      0.14,      0.00,      0.82
+            China region,      30.93,     -0.22,      1.43,      1.21,     32.14
+       Southeastern Asia,       9.22,      1.71,      0.85,      2.50,     11.74
+        Indonesia region,       4.97,      0.90,      0.00,      0.90,      5.87
+                   Japan,       0.75,     -0.05,      0.11,      0.06,      0.81
+                 Oceania,       7.78,      1.96,      0.21,      2.23,      9.99
+      Rest of South Asia,       5.48,      0.13,      0.00,      0.13,      5.62
+ Rest of Southern Africa,       1.83,      6.11,      0.76,      6.89,      8.73
+International Transportation,       0.00,      0.00,      0.00,      0.00,      0.00
+                  Global,     202.21,     48.12,      9.00,     56.41,    259.35
+
+
+
+25% of GCMs: 
+                  Region,   CH4_mit,NatLand_mit,  CCS_mit,LULUC_mit,Linear_mit,
+                  Canada,       2.84,      0.09,      0.02,      0.11,      2.97
+                     USA,      14.80,      0.68,      0.38,      1.82,     17.11
+                  Mexico,       1.92,      1.02,      0.34,      1.42,      3.47
+         Central America,       1.01,      0.25,      0.04,      0.31,      1.37
+                  Brazil,       7.49,      6.14,      1.56,      8.07,     16.11
+   Rest of South America,       9.45,      4.44,      1.19,      5.64,     15.58
+         Northern Africa,       2.14,      0.00,      0.00,      0.00,      2.15
+          Western Africa,       7.86,     19.00,      0.01,     19.02,     27.58
+          Eastern Africa,       4.14,      2.04,      0.09,      2.14,      6.51
+            South Africa,      12.20,     -0.13,      0.00,     -0.13,     12.07
+          Western Europe,       8.31,     -0.61,      0.16,      0.07,      8.39
+          Central Europe,       4.02,     -0.47,      0.08,     -0.16,      3.86
+                  Turkey,       1.65,     -0.04,      0.00,     -0.04,      1.61
+          Ukraine Region,       2.24,     -0.28,      0.00,     -0.03,      2.21
+            Central Asia,       6.25,      0.01,      0.00,      0.01,      6.28
+           Russia region,      10.64,      0.52,      0.03,      0.96,     11.68
+             Middle East,      10.31,      0.00,      0.00,      0.00,     10.31
+                   India,      26.73,      0.18,      0.00,      0.19,     26.95
+            Korea region,       0.77,     -0.26,      0.00,     -0.01,      0.77
+            China region,      29.51,     -0.41,      1.08,      1.12,     30.64
+       Southeastern Asia,       8.79,      1.47,      0.63,      2.34,     11.46
+        Indonesia region,       4.74,      0.83,      0.00,      0.83,      5.71
+                   Japan,       0.71,     -0.18,      0.00,      0.05,      0.76
+                 Oceania,       7.42,      1.86,      0.20,      2.09,      9.78
+      Rest of South Asia,       5.23,      0.12,      0.00,      0.12,      5.37
+ Rest of Southern Africa,       1.75,      5.42,      0.71,      6.65,      8.56
+International Transportation,       0.00,      0.00,      0.00,      0.00,      0.00
+                  Global,     192.93,     41.99,      6.95,     53.46,    251.82
+
+
+
+75% of GCMs: 
+                  Region,   CH4_mit,NatLand_mit,  CCS_mit,LULUC_mit,Linear_mit,
+                  Canada,       3.12,      0.17,      0.02,      0.19,      3.32
+                     USA,      16.29,      1.95,      1.15,      2.36,     18.12
+                  Mexico,       2.11,      1.21,      0.43,      1.63,      3.64
+         Central America,       1.12,      0.38,      0.06,      0.42,      1.48
+                  Brazil,       8.25,      7.48,      1.94,      9.14,     16.74
+   Rest of South America,      10.40,      5.13,      1.43,      6.47,     16.46
+         Northern Africa,       2.36,      0.00,      0.00,      0.00,      2.36
+          Western Africa,       8.65,     21.68,      0.02,     21.70,     29.59
+          Eastern Africa,       4.56,      2.28,      0.15,      2.39,      6.70
+            South Africa,      13.43,     -0.13,      0.00,     -0.12,     13.30
+          Western Europe,       9.14,     -0.09,      0.83,      0.22,      9.36
+          Central Europe,       4.42,     -0.24,      0.48,      0.01,      4.43
+                  Turkey,       1.81,     -0.02,      0.00,     -0.02,      1.79
+          Ukraine Region,       2.47,     -0.03,      0.35,      0.07,      2.54
+            Central Asia,       6.88,      0.03,      0.00,      0.03,      6.91
+           Russia region,      11.72,      1.01,      0.45,      1.08,     12.72
+             Middle East,      11.35,      0.01,      0.00,      0.01,     11.35
+                   India,      29.42,      0.23,      0.12,      0.27,     29.68
+            Korea region,       0.85,     -0.01,      0.29,      0.04,      0.88
+            China region,      32.48,      0.05,      1.72,      1.32,     33.79
+       Southeastern Asia,       9.68,      1.91,      0.89,      2.67,     12.00
+        Indonesia region,       5.22,      0.97,      0.00,      0.97,      6.04
+                   Japan,       0.78,      0.05,      0.25,      0.08,      0.86
+                 Oceania,       8.17,      2.14,      0.27,      2.37,     10.29
+      Rest of South Asia,       5.75,      0.14,      0.00,      0.14,      5.86
+ Rest of Southern Africa,       1.93,      6.30,      0.94,      7.06,      8.87
+International Transportation,       0.00,      0.00,      0.00,      0.00,      0.00
+                  Global,     212.35,     52.11,     11.62,     59.18,    265.68

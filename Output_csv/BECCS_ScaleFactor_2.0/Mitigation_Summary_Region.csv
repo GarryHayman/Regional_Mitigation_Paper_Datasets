@@ -1,0 +1,240 @@
+1p5deg, lowQ10, lowO3:
+         RegionCH4_mit,NatLand_mit,CCS_mit,LULUC_mit,Linear_mit,
+         Canada:       2.78,     -0.41,      0.59,      0.18,      2.97
+            USA:      14.51,      0.40,      2.67,      3.06,     17.54
+         Mexico:       1.88,      0.78,      1.32,      2.12,      3.99
+Central America:       0.99,      0.26,      0.12,      0.38,      1.37
+         Brazil:       7.35,      5.33,      5.21,     10.46,     17.82
+Rest of South America:       9.26,      3.91,      3.45,      7.33,     16.56
+Northern Africa:       2.10,      0.00,      0.00,      0.00,      2.10
+ Western Africa:       7.71,     19.10,      0.06,     19.16,     26.88
+ Eastern Africa:       4.06,      1.97,      0.41,      2.41,      6.45
+   South Africa:      11.96,     -0.15,      0.03,     -0.12,     11.83
+ Western Europe:       8.15,     -2.26,      3.16,      0.88,      9.03
+ Central Europe:       3.94,     -0.88,      1.09,      0.21,      4.15
+         Turkey:       1.62,     -0.03,      0.00,     -0.03,      1.58
+ Ukraine Region:       2.20,     -0.47,      0.66,      0.18,      2.39
+   Central Asia:       6.13,      0.02,      0.00,      0.03,      6.14
+  Russia region:      10.43,     -0.54,      1.96,      1.42,     11.86
+    Middle East:      10.11,      0.00,      0.00,      0.00,     10.11
+          India:      26.21,      0.01,      0.25,      0.24,     26.45
+   Korea region:       0.76,     -0.36,      0.55,      0.19,      0.95
+   China region:      28.93,     -2.50,      5.27,      2.78,     31.70
+Southeastern Asia:       8.62,      1.61,      1.84,      3.44,     12.06
+Indonesia region:       4.65,      0.83,      0.00,      0.83,      5.47
+          Japan:       0.70,     -0.33,      0.48,      0.16,      0.86
+        Oceania:       7.27,      1.15,      1.65,      2.80,     10.10
+Rest of South Asia:       5.13,      0.14,      0.00,      0.14,      5.27
+Rest of Southern Africa:       1.72,      3.72,      4.83,      8.56,     10.28
+International Transportation:       0.00,      0.00,      0.00,      0.00,      0.00
+         Global:     189.14,     30.97,     35.81,     67.03,    255.84
+1p5deg, lowQ10, highO3:
+         RegionCH4_mit,NatLand_mit,CCS_mit,LULUC_mit,Linear_mit,
+         Canada:       3.05,     -0.91,      1.42,      0.52,      3.55
+            USA:      15.89,     -0.41,      3.26,      2.92,     18.84
+         Mexico:       2.06,      0.72,      1.21,      1.95,      4.02
+Central America:       1.09,      0.20,      0.11,      0.32,      1.40
+         Brazil:       8.05,      4.50,      5.22,      9.69,     17.71
+Rest of South America:      10.15,      3.38,      3.41,      6.74,     16.88
+Northern Africa:       2.30,      0.00,      0.00,      0.00,      2.30
+ Western Africa:       8.44,     16.33,      0.06,     16.39,     24.85
+ Eastern Africa:       4.45,      1.61,      0.53,      2.16,      6.60
+   South Africa:      13.11,     -0.14,      0.03,     -0.12,     12.99
+ Western Europe:       8.92,     -1.61,      3.12,      1.50,     10.42
+ Central Europe:       4.31,     -0.97,      1.62,      0.68,      4.99
+         Turkey:       1.77,     -0.02,      0.00,     -0.02,      1.75
+ Ukraine Region:       2.41,     -0.26,      0.64,      0.37,      2.78
+   Central Asia:       6.72,      0.02,      0.00,      0.02,      6.74
+  Russia region:      11.43,     -2.23,      4.36,      2.13,     13.56
+    Middle East:      11.07,      0.00,      0.00,      0.00,     11.08
+          India:      28.72,      0.07,      0.25,      0.32,     29.00
+   Korea region:       0.83,     -0.23,      0.53,      0.30,      1.13
+   China region:      31.70,     -2.11,      5.58,      3.46,     35.14
+Southeastern Asia:       9.45,      1.29,      1.79,      3.09,     12.51
+Indonesia region:       5.09,      0.67,      0.00,      0.67,      5.76
+          Japan:       0.77,     -0.16,      0.45,      0.29,      1.06
+        Oceania:       7.97,     -0.03,      2.80,      2.75,     10.74
+Rest of South Asia:       5.62,      0.12,      0.00,      0.12,      5.73
+Rest of Southern Africa:       1.88,      3.49,      4.85,      8.35,     10.23
+International Transportation:       0.00,      0.00,      0.00,      0.00,      0.00
+         Global:     207.24,     23.30,     41.84,     64.69,    271.49
+1p5deg, highQ10, lowO3:
+         RegionCH4_mit,NatLand_mit,CCS_mit,LULUC_mit,Linear_mit,
+         Canada:       2.76,     -0.37,      0.59,      0.22,      2.98
+            USA:      14.40,      0.46,      2.66,      3.10,     17.45
+         Mexico:       1.87,      0.78,      1.32,      2.12,      3.98
+Central America:       0.99,      0.26,      0.12,      0.38,      1.36
+         Brazil:       7.29,      5.33,      5.20,     10.46,     17.76
+Rest of South America:       9.19,      3.92,      3.44,      7.32,     16.45
+Northern Africa:       2.08,      0.00,      0.00,      0.00,      2.09
+ Western Africa:       7.65,     18.98,      0.06,     19.04,     26.68
+ Eastern Africa:       4.03,      1.97,      0.42,      2.41,      6.43
+   South Africa:      11.87,     -0.15,      0.03,     -0.12,     11.74
+ Western Europe:       8.08,     -2.25,      3.15,      0.89,      8.97
+ Central Europe:       3.91,     -0.88,      1.09,      0.21,      4.12
+         Turkey:       1.60,     -0.03,      0.00,     -0.03,      1.57
+ Ukraine Region:       2.18,     -0.46,      0.65,      0.18,      2.37
+   Central Asia:       6.08,      0.02,      0.00,      0.03,      6.11
+  Russia region:      10.35,     -0.48,      1.94,      1.47,     11.83
+    Middle East:      10.03,      0.00,      0.00,      0.00,     10.03
+          India:      26.01,      0.02,      0.25,      0.24,     26.25
+   Korea region:       0.75,     -0.36,      0.55,      0.19,      0.94
+   China region:      28.71,     -2.46,      5.25,      2.81,     31.52
+Southeastern Asia:       8.56,      1.62,      1.84,      3.45,     12.00
+Indonesia region:       4.61,      0.84,      0.00,      0.84,      5.44
+          Japan:       0.69,     -0.32,      0.48,      0.16,      0.85
+        Oceania:       7.22,      1.15,      1.65,      2.80,     10.03
+Rest of South Asia:       5.09,      0.15,      0.00,      0.15,      5.23
+Rest of Southern Africa:       1.70,      3.72,      4.82,      8.55,     10.26
+International Transportation:       0.00,      0.00,      0.00,      0.00,      0.00
+         Global:     187.69,     31.20,     35.65,     67.14,    254.18
+1p5deg, highQ10, highO3:
+         RegionCH4_mit,NatLand_mit,CCS_mit,LULUC_mit,Linear_mit,
+         Canada:       3.03,     -0.83,      1.41,      0.60,      3.62
+            USA:      15.80,     -0.35,      3.23,      3.00,     18.80
+         Mexico:       2.05,      0.73,      1.21,      1.96,      4.00
+Central America:       1.08,      0.21,      0.11,      0.32,      1.40
+         Brazil:       8.00,      4.52,      5.21,      9.72,     17.68
+Rest of South America:      10.08,      3.44,      3.40,      6.78,     16.82
+Northern Africa:       2.29,      0.00,      0.00,      0.00,      2.29
+ Western Africa:       8.39,     16.21,      0.06,     16.27,     24.63
+ Eastern Africa:       4.42,      1.62,      0.52,      2.16,      6.58
+   South Africa:      13.02,     -0.14,      0.03,     -0.12,     12.90
+ Western Europe:       8.87,     -1.58,      3.11,      1.52,     10.38
+ Central Europe:       4.29,     -0.95,      1.60,      0.69,      4.97
+         Turkey:       1.76,     -0.02,      0.00,     -0.02,      1.74
+ Ukraine Region:       2.39,     -0.25,      0.63,      0.38,      2.77
+   Central Asia:       6.68,      0.03,      0.00,      0.03,      6.70
+  Russia region:      11.36,     -2.01,      4.31,      2.27,     13.61
+    Middle East:      11.00,      0.01,      0.00,      0.01,     11.01
+          India:      28.54,      0.09,      0.24,      0.33,     28.81
+   Korea region:       0.82,     -0.23,      0.53,      0.30,      1.13
+   China region:      31.50,     -2.07,      5.56,      3.49,     34.95
+Southeastern Asia:       9.39,      1.32,      1.79,      3.11,     12.47
+Indonesia region:       5.06,      0.68,      0.00,      0.68,      5.73
+          Japan:       0.76,     -0.16,      0.45,      0.30,      1.06
+        Oceania:       7.92,     -0.08,      2.79,      2.75,     10.69
+Rest of South Asia:       5.58,      0.12,      0.00,      0.12,      5.70
+Rest of Southern Africa:       1.87,      3.49,      4.85,      8.35,     10.22
+International Transportation:       0.00,      0.00,      0.00,      0.00,      0.00
+         Global:     205.95,     23.67,     41.58,     65.05,    270.58
+ 2deg, lowQ10, lowO3:
+         RegionCH4_mit,NatLand_mit,CCS_mit,LULUC_mit,Linear_mit,
+         Canada:       2.86,     -0.46,      0.66,      0.24,      3.10
+            USA:      14.92,      0.28,      3.12,      3.38,     18.22
+         Mexico:       1.94,      0.90,      1.31,      2.21,      4.14
+Central America:       1.02,      0.35,      0.11,      0.47,      1.48
+         Brazil:       7.55,      6.09,      5.20,     11.32,     18.83
+Rest of South America:       9.52,      4.42,      3.53,      7.94,     17.44
+Northern Africa:       2.16,      0.00,      0.00,      0.00,      2.16
+ Western Africa:       7.92,     21.77,      0.06,     21.84,     29.74
+ Eastern Africa:       4.17,      2.11,      0.40,      2.52,      6.67
+   South Africa:      12.30,     -0.15,      0.03,     -0.12,     12.18
+ Western Europe:       8.38,     -2.38,      3.40,      1.03,      9.41
+ Central Europe:       4.05,     -0.92,      1.19,      0.26,      4.30
+         Turkey:       1.66,     -0.04,      0.00,     -0.04,      1.62
+ Ukraine Region:       2.26,     -0.49,      0.72,      0.23,      2.48
+   Central Asia:       6.30,      0.02,      0.00,      0.02,      6.31
+  Russia region:      10.73,     -0.77,      2.32,      1.49,     12.23
+    Middle East:      10.39,      0.00,      0.00,      0.00,     10.39
+          India:      26.95,      0.21,      0.01,      0.23,     27.16
+   Korea region:       0.78,     -0.37,      0.61,      0.24,      1.02
+   China region:      29.75,     -2.60,      5.64,      3.02,     32.73
+Southeastern Asia:       8.87,      1.73,      1.81,      3.49,     12.32
+Indonesia region:       4.78,      0.97,      0.00,      0.97,      5.74
+          Japan:       0.72,     -0.34,      0.53,      0.19,      0.91
+        Oceania:       7.48,      1.30,      1.79,      3.04,     10.54
+Rest of South Asia:       5.27,      0.14,      0.00,      0.14,      5.40
+Rest of Southern Africa:       1.76,      4.23,      4.54,      8.87,     10.61
+International Transportation:       0.00,      0.00,      0.00,      0.00,      0.00
+         Global:     194.50,     35.79,     37.29,     72.87,    266.64
+2deg, lowQ10, highO3:
+         RegionCH4_mit,NatLand_mit,CCS_mit,LULUC_mit,Linear_mit,
+         Canada:       3.14,     -1.58,      2.28,      0.68,      3.83
+            USA:      16.39,     -0.40,      3.54,      3.28,     19.64
+         Mexico:       2.13,      0.79,      1.24,      2.04,      4.15
+Central America:       1.12,      0.27,      0.11,      0.39,      1.52
+         Brazil:       8.30,      5.20,      5.23,     10.52,     18.74
+Rest of South America:      10.46,      3.95,      3.52,      7.40,     17.89
+Northern Africa:       2.37,      0.00,      0.00,      0.00,      2.38
+ Western Africa:       8.70,     19.08,      0.06,     19.14,     27.82
+ Eastern Africa:       4.58,      1.77,      0.49,      2.29,      6.85
+   South Africa:      13.51,     -0.14,      0.03,     -0.12,     13.39
+ Western Europe:       9.20,     -1.77,      3.39,      1.68,     10.84
+ Central Europe:       4.45,     -1.13,      1.83,      0.71,      5.14
+         Turkey:       1.82,     -0.03,      0.00,     -0.03,      1.80
+ Ukraine Region:       2.48,     -0.28,      0.71,      0.42,      2.91
+   Central Asia:       6.93,      0.01,      0.00,      0.02,      6.94
+  Russia region:      11.79,     -2.55,      4.88,      2.34,     14.14
+    Middle East:      11.42,      0.00,      0.00,      0.00,     11.42
+          India:      29.61,      0.12,      0.26,      0.33,     29.90
+   Korea region:       0.85,     -0.26,      0.59,      0.33,      1.18
+   China region:      32.68,     -2.26,      6.02,      3.73,     36.41
+Southeastern Asia:       9.74,      1.43,      1.80,      3.19,     12.90
+Indonesia region:       5.25,      0.82,      0.00,      0.82,      6.07
+          Japan:       0.79,     -0.18,      0.51,      0.33,      1.12
+        Oceania:       8.22,      0.15,      2.66,      2.94,     11.20
+Rest of South Asia:       5.79,      0.12,      0.00,      0.12,      5.89
+Rest of Southern Africa:       1.94,      3.77,      4.82,      8.68,     10.60
+International Transportation:       0.00,      0.00,      0.00,      0.00,      0.00
+         Global:     213.68,     27.08,     43.94,     71.22,    284.08
+2deg, highQ10, lowO3:
+         RegionCH4_mit,NatLand_mit,CCS_mit,LULUC_mit,Linear_mit,
+         Canada:       2.82,     -0.42,      0.66,      0.26,      3.09
+            USA:      14.70,      0.30,      3.10,      3.40,     18.02
+         Mexico:       1.91,      0.89,      1.31,      2.20,      4.11
+Central America:       1.01,      0.34,      0.11,      0.46,      1.47
+         Brazil:       7.45,      6.02,      5.20,     11.27,     18.68
+Rest of South America:       9.39,      4.40,      3.52,      7.90,     17.26
+Northern Africa:       2.13,      0.00,      0.00,      0.00,      2.13
+ Western Africa:       7.81,     21.56,      0.06,     21.62,     29.47
+ Eastern Africa:       4.11,      2.11,      0.40,      2.52,      6.62
+   South Africa:      12.12,     -0.15,      0.03,     -0.12,     12.01
+ Western Europe:       8.26,     -2.35,      3.39,      1.03,      9.30
+ Central Europe:       3.99,     -0.92,      1.18,      0.27,      4.25
+         Turkey:       1.64,     -0.03,      0.00,     -0.03,      1.60
+ Ukraine Region:       2.23,     -0.49,      0.72,      0.23,      2.45
+   Central Asia:       6.21,      0.02,      0.00,      0.03,      6.24
+  Russia region:      10.58,     -0.64,      2.22,      1.56,     12.15
+    Middle East:      10.24,      0.00,      0.00,      0.00,     10.25
+          India:      26.57,      0.21,      0.01,      0.24,     26.79
+   Korea region:       0.77,     -0.37,      0.61,      0.24,      1.01
+   China region:      29.33,     -2.57,      5.62,      3.02,     32.32
+Southeastern Asia:       8.74,      1.73,      1.81,      3.51,     12.21
+Indonesia region:       4.71,      0.97,      0.00,      0.97,      5.68
+          Japan:       0.71,     -0.34,      0.53,      0.19,      0.90
+        Oceania:       7.37,      1.30,      1.79,      3.03,     10.42
+Rest of South Asia:       5.20,      0.15,      0.00,      0.15,      5.33
+Rest of Southern Africa:       1.74,      4.20,      4.55,      8.87,     10.59
+International Transportation:       0.00,      0.00,      0.00,      0.00,      0.00
+         Global:     191.73,     35.56,     37.20,     72.59,    263.62
+2deg, highQ10, highO3:
+         RegionCH4_mit,NatLand_mit,CCS_mit,LULUC_mit,Linear_mit,
+         Canada:       3.11,     -1.48,      2.26,      0.77,      3.87
+            USA:      16.19,     -0.21,      3.40,      3.30,     19.47
+         Mexico:       2.10,      0.78,      1.24,      2.04,      4.13
+Central America:       1.11,      0.28,      0.11,      0.40,      1.51
+         Brazil:       8.20,      5.22,      5.22,     10.52,     18.66
+Rest of South America:      10.33,      3.98,      3.51,      7.42,     17.77
+Northern Africa:       2.34,      0.00,      0.00,      0.00,      2.35
+ Western Africa:       8.60,     18.87,      0.06,     18.93,     27.58
+ Eastern Africa:       4.53,      1.77,      0.48,      2.29,      6.79
+   South Africa:      13.35,     -0.14,      0.03,     -0.12,     13.23
+ Western Europe:       9.09,     -1.73,      3.37,      1.69,     10.76
+ Central Europe:       4.39,     -1.10,      1.81,      0.72,      5.10
+         Turkey:       1.80,     -0.02,      0.00,     -0.02,      1.78
+ Ukraine Region:       2.45,     -0.28,      0.70,      0.42,      2.88
+   Central Asia:       6.84,      0.02,      0.00,      0.03,      6.87
+  Russia region:      11.64,     -2.38,      4.86,      2.48,     14.15
+    Middle East:      11.28,      0.01,      0.00,      0.01,     11.28
+          India:      29.25,      0.13,      0.26,      0.33,     29.61
+   Korea region:       0.84,     -0.26,      0.59,      0.33,      1.17
+   China region:      32.28,     -2.21,      5.99,      3.75,     36.08
+Southeastern Asia:       9.62,      1.44,      1.80,      3.21,     12.80
+Indonesia region:       5.19,      0.83,      0.00,      0.83,      6.01
+          Japan:       0.78,     -0.18,      0.51,      0.33,      1.11
+        Oceania:       8.12,      0.15,      2.66,      2.94,     11.08
+Rest of South Asia:       5.72,      0.11,      0.00,      0.11,      5.82
+Rest of Southern Africa:       1.92,      3.76,      4.82,      8.67,     10.58
+International Transportation:       0.00,      0.00,      0.00,      0.00,      0.00
+         Global:     211.06,     27.46,     43.69,     71.39,    281.84

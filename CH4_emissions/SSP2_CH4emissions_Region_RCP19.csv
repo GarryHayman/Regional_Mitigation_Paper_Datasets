@@ -1,0 +1,460 @@
+Model,Scenario,Region,Variable,Unit,2005,2010,2020,2030,2040,2050,2060,2070,2080,2090,2100
+IMAGE,SSP2-LF-SPA0-V17,BRA,Emissions|CH4,Mt CH4/yr,19,20,19,18,18,19,18,18,18,18,18
+IMAGE,SSP2-LF-SPA0-V17,BRA,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.03,0.03,0.03,0.02,0.02,0.02,0.01,0.01,0.01,0.01,0.00
+IMAGE,SSP2-LF-SPA0-V17,BRA,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0.14,0.15,0.15,0.15,0.14,0.11,0.08,0.06,0.05,0.04,0.03
+IMAGE,SSP2-LF-SPA0-V17,BRA,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.01,0.01,0.02,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,BRA,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.01,0.01,0.02,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,BRA,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,0.67,0.73,0.78,0.68,0.57,0.57,0.52,0.45,0.35,0.24,0.13
+IMAGE,SSP2-LF-SPA0-V17,BRA,Emissions|CH4|Energy Supply,Mt CH4/yr,0.47,0.51,0.56,0.48,0.39,0.44,0.42,0.38,0.30,0.19,0.09
+IMAGE,SSP2-LF-SPA0-V17,BRA,Emissions|CH4|Land Use,Mt CH4/yr,16.32,16.92,16.74,15.87,16.05,17.05,15.90,16.21,16.53,16.82,17.02
+IMAGE,SSP2-LF-SPA0-V17,BRA,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.20,0.24,0.28,0.31,0.35,0.39,0.40,0.39,0.38,0.36,0.34
+IMAGE,SSP2-LF-SPA0-V17,BRA,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,11.90,13.45,14.04,14.67,14.60,14.29,14.72,15.12,15.48,15.79,16.07
+IMAGE,SSP2-LF-SPA0-V17,BRA,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0.29,0.32,0.34,0.33,0.33,0.32,0.32,0.33,0.33,0.33,0.34
+IMAGE,SSP2-LF-SPA0-V17,BRA,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,11.32,12.84,13.46,14.19,14.16,13.90,14.33,14.73,15.09,15.40,15.68
+IMAGE,SSP2-LF-SPA0-V17,BRA,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.29,0.29,0.24,0.15,0.11,0.07,0.07,0.06,0.06,0.05,0.05
+IMAGE,SSP2-LF-SPA0-V17,BRA,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,3.34,2.42,1.57,0.02,0.32,1.72,0.13,0.08,0.07,0.11,0.09
+IMAGE,SSP2-LF-SPA0-V17,BRA,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0.87,0.82,0.84,0.87,0.78,0.65,0.65,0.62,0.60,0.56,0.53
+IMAGE,SSP2-LF-SPA0-V17,BRA,Emissions|CH4|Other,Mt CH4/yr,0.03,0.03,0.02,0.02,0.01,0.01,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,BRA,Emissions|CH4|Waste,Mt CH4/yr,2,2,1.83,1.41,1.28,1.25,1.20,1.16,1.10,1.03,0.96
+IMAGE,SSP2-LF-SPA0-V17,CAN,Emissions|CH4,Mt CH4/yr,4.86,4.54,3.86,2.54,1.79,1.54,1.49,1.47,1.45,1.41,1.36
+IMAGE,SSP2-LF-SPA0-V17,CAN,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.01,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,CAN,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0.02,0.02,0.02,0.02,0.03,0.03,0.03,0.03,0.03,0.03,0.03
+IMAGE,SSP2-LF-SPA0-V17,CAN,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,CAN,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,CAN,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,2.16,1.69,1.25,0.64,0.35,0.19,0.14,0.13,0.12,0.10,0.08
+IMAGE,SSP2-LF-SPA0-V17,CAN,Emissions|CH4|Energy Supply,Mt CH4/yr,2.12,1.65,1.21,0.60,0.32,0.16,0.11,0.09,0.08,0.06,0.05
+IMAGE,SSP2-LF-SPA0-V17,CAN,Emissions|CH4|Land Use,Mt CH4/yr,1.38,1.45,1.35,1.27,1.16,1.06,1.04,1.01,0.99,0.96,0.93
+IMAGE,SSP2-LF-SPA0-V17,CAN,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,CAN,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,1.37,1.44,1.34,1.25,1.15,1.04,1.02,1.00,0.98,0.95,0.92
+IMAGE,SSP2-LF-SPA0-V17,CAN,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0.28,0.29,0.31,0.28,0.25,0.24,0.24,0.23,0.22,0.22,0.21
+IMAGE,SSP2-LF-SPA0-V17,CAN,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,1.10,1.15,1.02,0.97,0.90,0.80,0.79,0.77,0.75,0.73,0.71
+IMAGE,SSP2-LF-SPA0-V17,CAN,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,CAN,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,CAN,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,CAN,Emissions|CH4|Other,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,CAN,Emissions|CH4|Waste,Mt CH4/yr,1.31,1.39,1.26,0.64,0.27,0.29,0.31,0.33,0.34,0.35,0.35
+IMAGE,SSP2-LF-SPA0-V17,CEU,Emissions|CH4,Mt CH4/yr,7.15,6.66,5.06,3.31,2.58,2.26,2.03,1.83,1.73,1.64,1.55
+IMAGE,SSP2-LF-SPA0-V17,CEU,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.01,0.01,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,CEU,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0,0,0,0,0.28,0.36,0.30,0.20,0.17,0.16,0.14
+IMAGE,SSP2-LF-SPA0-V17,CEU,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,CEU,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,CEU,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,3.56,3.08,1.96,1.07,0.81,0.68,0.53,0.40,0.37,0.35,0.32
+IMAGE,SSP2-LF-SPA0-V17,CEU,Emissions|CH4|Energy Supply,Mt CH4/yr,3.07,2.67,1.66,0.85,0.50,0.31,0.22,0.20,0.19,0.18,0.18
+IMAGE,SSP2-LF-SPA0-V17,CEU,Emissions|CH4|Land Use,Mt CH4/yr,1.99,2.01,1.76,1.56,1.40,1.25,1.19,1.13,1.07,1.02,0.96
+IMAGE,SSP2-LF-SPA0-V17,CEU,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.03,0.03,0.03,0.03,0.03,0.03,0.03,0.02,0.02,0.02,0.02
+IMAGE,SSP2-LF-SPA0-V17,CEU,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,1.96,1.98,1.73,1.53,1.37,1.21,1.16,1.10,1.05,0.99,0.94
+IMAGE,SSP2-LF-SPA0-V17,CEU,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0,0,0,0,0,0.19,0.18,0.16,0.15,0.14,0.12
+IMAGE,SSP2-LF-SPA0-V17,CEU,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,1.55,1.57,1.36,1.26,1.14,1.02,0.98,0.93,0.89,0.85,0.81
+IMAGE,SSP2-LF-SPA0-V17,CEU,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,CEU,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,CEU,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0.01,0.01,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,CEU,Emissions|CH4|Other,Mt CH4/yr,0.02,0.02,0.03,0.02,0.01,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,CEU,Emissions|CH4|Waste,Mt CH4/yr,2,2,1.33,0.68,0.37,0.32,0.32,0.30,0.29,0.27,0.26
+IMAGE,SSP2-LF-SPA0-V17,CHN,Emissions|CH4,Mt CH4/yr,60.22,75.12,64.32,39.77,28.62,22.56,19.59,17.35,15.74,14.23,12.94
+IMAGE,SSP2-LF-SPA0-V17,CHN,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.13,0.21,0.18,0.14,0.09,0.07,0.04,0.02,0.01,0.01,0.00
+IMAGE,SSP2-LF-SPA0-V17,CHN,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,3,4,3,2,1.46,0.99,0.74,0.40,0.32,0.27,0.24
+IMAGE,SSP2-LF-SPA0-V17,CHN,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.05,0.07,0.10,0.10,0.07,0.04,0.02,0.02,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,CHN,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.05,0.07,0.10,0.10,0.07,0.04,0.02,0.02,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,CHN,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,28.55,41.97,32.69,13.17,5.86,3.30,2.12,1.35,0.99,0.67,0.51
+IMAGE,SSP2-LF-SPA0-V17,CHN,Emissions|CH4|Energy Supply,Mt CH4/yr,24.95,38.01,29.18,10.96,4.10,2.18,1.32,0.91,0.65,0.38,0.26
+IMAGE,SSP2-LF-SPA0-V17,CHN,Emissions|CH4|Land Use,Mt CH4/yr,22.13,22.69,21.50,18.63,15.67,12.72,11.60,10.83,10.08,9.38,8.67
+IMAGE,SSP2-LF-SPA0-V17,CHN,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.01,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.01
+IMAGE,SSP2-LF-SPA0-V17,CHN,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,20.91,22.37,21.28,18.43,14.94,12.37,11.52,10.72,9.95,9.22,8.51
+IMAGE,SSP2-LF-SPA0-V17,CHN,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,1.35,1.57,1.72,1.64,1.52,1.41,1.30,1.20,1.10,1.01,0.92
+IMAGE,SSP2-LF-SPA0-V17,CHN,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,10.66,11.63,11.40,10.94,9.94,8.97,8.48,8.01,7.56,7.12,6.70
+IMAGE,SSP2-LF-SPA0-V17,CHN,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,8.90,9.17,8.16,5.85,3.48,1.99,1.74,1.51,1.30,1.09,0.89
+IMAGE,SSP2-LF-SPA0-V17,CHN,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,1.20,0.31,0.19,0.17,0.71,0.33,0.06,0.09,0.11,0.15,0.14
+IMAGE,SSP2-LF-SPA0-V17,CHN,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,CHN,Emissions|CH4|Other,Mt CH4/yr,0.12,0,0,0,0,0,0,0,0,0,0
+IMAGE,SSP2-LF-SPA0-V17,CHN,Emissions|CH4|Waste,Mt CH4/yr,9.49,10.39,10.05,7.91,7.03,6.50,5.83,5.15,4.65,4.17,3.75
+IMAGE,SSP2-LF-SPA0-V17,EAF,Emissions|CH4,Mt CH4/yr,8.85,9.46,10.75,12.01,14.02,14.12,14.21,15.02,14.82,14.86,14.66
+IMAGE,SSP2-LF-SPA0-V17,EAF,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.00,0.00,0.00,0.00,0.01,0.01,0.01,0.02,0.02,0.02,0.02
+IMAGE,SSP2-LF-SPA0-V17,EAF,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,1,1,1,1,1,1,1,1,1,0.70,0.48
+IMAGE,SSP2-LF-SPA0-V17,EAF,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0,0,0,0,0,0,0,0,0,0,0
+IMAGE,SSP2-LF-SPA0-V17,EAF,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,EAF,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,0.81,0.93,1.10,1.16,1.19,1.17,1.28,1.26,1.16,0.97,0.70
+IMAGE,SSP2-LF-SPA0-V17,EAF,Emissions|CH4|Energy Supply,Mt CH4/yr,0.02,0.02,0.04,0.05,0.08,0.14,0.22,0.23,0.24,0.22,0.17
+IMAGE,SSP2-LF-SPA0-V17,EAF,Emissions|CH4|Land Use,Mt CH4/yr,6.95,7.26,8.09,9.13,10.81,10.61,10.33,10.93,10.68,10.80,10.80
+IMAGE,SSP2-LF-SPA0-V17,EAF,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.02,0.02,0.03,0.03,0.04,0.05,0.05,0.05,0.06,0.06,0.06
+IMAGE,SSP2-LF-SPA0-V17,EAF,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,6.22,6.68,7.18,8.19,9.17,9.70,9.89,10.04,10.16,10.24,10.28
+IMAGE,SSP2-LF-SPA0-V17,EAF,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0.18,0.18,0.18,0.19,0.20,0.20,0.21,0.21,0.21,0.21,0.21
+IMAGE,SSP2-LF-SPA0-V17,EAF,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,5.83,6.27,6.75,7.81,8.84,9.40,9.60,9.76,9.88,9.97,10.02
+IMAGE,SSP2-LF-SPA0-V17,EAF,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.21,0.22,0.24,0.19,0.14,0.10,0.09,0.08,0.07,0.06,0.05
+IMAGE,SSP2-LF-SPA0-V17,EAF,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.15,0.04,0.40,0.47,1.25,0.54,0.09,0.59,0.24,0.31,0.30
+IMAGE,SSP2-LF-SPA0-V17,EAF,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0.56,0.53,0.48,0.43,0.35,0.32,0.30,0.25,0.22,0.20,0.16
+IMAGE,SSP2-LF-SPA0-V17,EAF,Emissions|CH4|Other,Mt CH4/yr,0.07,0.08,0.07,0.07,0.06,0.03,0.03,0.03,0.04,0.04,0.03
+IMAGE,SSP2-LF-SPA0-V17,EAF,Emissions|CH4|Waste,Mt CH4/yr,1.10,1.26,1.56,1.71,1.98,2.26,2.49,2.66,2.77,2.85,2.90
+IMAGE,SSP2-LF-SPA0-V17,INDIA,Emissions|CH4,Mt CH4/yr,26.87,29.56,28.71,24.76,21.63,19.61,18.61,17.81,16.90,15.88,14.88
+IMAGE,SSP2-LF-SPA0-V17,INDIA,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.04,0.05,0.06,0.07,0.07,0.08,0.08,0.06,0.05,0.04,0.03
+IMAGE,SSP2-LF-SPA0-V17,INDIA,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,1.69,1.76,1.77,1.68,1.78,1.58,1.25,1.05,0.85,0.65,0.50
+IMAGE,SSP2-LF-SPA0-V17,INDIA,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.03,0.04,0.05,0.05,0.04,0.02,0.02,0.02,0.02,0.02,0.02
+IMAGE,SSP2-LF-SPA0-V17,INDIA,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.03,0.04,0.05,0.05,0.04,0.02,0.02,0.02,0.02,0.02,0.02
+IMAGE,SSP2-LF-SPA0-V17,INDIA,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,5.07,6.05,5.96,4.37,2.95,2.40,1.90,1.69,1.37,1.05,0.81
+IMAGE,SSP2-LF-SPA0-V17,INDIA,Emissions|CH4|Energy Supply,Mt CH4/yr,3.30,4.20,4.08,2.57,1.06,0.71,0.56,0.56,0.45,0.34,0.26
+IMAGE,SSP2-LF-SPA0-V17,INDIA,Emissions|CH4|Land Use,Mt CH4/yr,16.69,17.97,16.73,14.56,12.65,10.92,10.32,9.82,9.34,8.86,8.38
+IMAGE,SSP2-LF-SPA0-V17,INDIA,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.21,0.25,0.32,0.37,0.38,0.38,0.36,0.34,0.33,0.30,0.28
+IMAGE,SSP2-LF-SPA0-V17,INDIA,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,15.92,17.27,15.97,13.81,11.76,10.17,9.67,9.20,8.75,8.31,7.87
+IMAGE,SSP2-LF-SPA0-V17,INDIA,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0.86,0.93,0.88,0.63,0.45,0.43,0.40,0.37,0.35,0.33,0.30
+IMAGE,SSP2-LF-SPA0-V17,INDIA,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,11.22,12.32,11.20,10.40,9.21,8.14,7.80,7.48,7.19,6.91,6.64
+IMAGE,SSP2-LF-SPA0-V17,INDIA,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,3.84,4.02,3.90,2.78,2.11,1.60,1.47,1.35,1.21,1.07,0.92
+IMAGE,SSP2-LF-SPA0-V17,INDIA,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.11,0.04,0.06,0.03,0.19,0.08,0.02,0.02,0.02,0.02,0.02
+IMAGE,SSP2-LF-SPA0-V17,INDIA,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0.45,0.41,0.37,0.35,0.32,0.29,0.27,0.26,0.25,0.22,0.20
+IMAGE,SSP2-LF-SPA0-V17,INDIA,Emissions|CH4|Other,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,INDIA,Emissions|CH4|Waste,Mt CH4/yr,5.10,5.54,6.01,5.81,6.01,6.28,6.36,6.27,6.17,5.95,5.67
+IMAGE,SSP2-LF-SPA0-V17,INDO,Emissions|CH4,Mt CH4/yr,8.80,11.63,11.05,7.52,5.35,4.55,4.17,3.80,3.44,3.08,2.79
+IMAGE,SSP2-LF-SPA0-V17,INDO,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.02,0.02,0.02,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.00
+IMAGE,SSP2-LF-SPA0-V17,INDO,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,1,1,1,0,0,0,0,0,0.14,0.10,0.07
+IMAGE,SSP2-LF-SPA0-V17,INDO,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.02,0.02,0.02,0.02,0.01,0.01,0.01,0.01,0.00,0.00,0.01
+IMAGE,SSP2-LF-SPA0-V17,INDO,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.02,0.02,0.02,0.02,0.01,0.01,0.01,0.01,0.00,0.00,0.01
+IMAGE,SSP2-LF-SPA0-V17,INDO,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,2.40,2.80,3.18,2.24,1.29,0.94,0.72,0.57,0.42,0.28,0.20
+IMAGE,SSP2-LF-SPA0-V17,INDO,Emissions|CH4|Energy Supply,Mt CH4/yr,1.87,2.23,2.60,1.75,0.85,0.64,0.48,0.37,0.26,0.17,0.13
+IMAGE,SSP2-LF-SPA0-V17,INDO,Emissions|CH4|Land Use,Mt CH4/yr,4.48,6.77,5.60,3.32,2.04,1.58,1.45,1.31,1.22,1.12,1.04
+IMAGE,SSP2-LF-SPA0-V17,INDO,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.20,0.22,0.25,0.26,0.26,0.25,0.23,0.22,0.21,0.19,0.18
+IMAGE,SSP2-LF-SPA0-V17,INDO,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,3.45,3.70,3.40,2.48,1.69,1.20,1.12,1.04,0.96,0.89,0.81
+IMAGE,SSP2-LF-SPA0-V17,INDO,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0.09,0.10,0.11,0.09,0.06,0.06,0.06,0.05,0.05,0.04,0.04
+IMAGE,SSP2-LF-SPA0-V17,INDO,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,0.81,0.90,0.81,0.74,0.68,0.62,0.60,0.59,0.57,0.55,0.54
+IMAGE,SSP2-LF-SPA0-V17,INDO,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,3,3,2,2,1,0.52,0.46,0.40,0.34,0.29,0.24
+IMAGE,SSP2-LF-SPA0-V17,INDO,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.81,2.83,1.93,0.57,0.09,0.11,0.08,0.04,0.04,0.03,0.04
+IMAGE,SSP2-LF-SPA0-V17,INDO,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0.02,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,INDO,Emissions|CH4|Other,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,INDO,Emissions|CH4|Waste,Mt CH4/yr,1.91,2.06,2.26,1.96,2.01,2.03,1.99,1.91,1.80,1.67,1.54
+IMAGE,SSP2-LF-SPA0-V17,JAP,Emissions|CH4,Mt CH4/yr,2,2,2,1,1,1,1,1,1,1,0
+IMAGE,SSP2-LF-SPA0-V17,JAP,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.01,0.01,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,JAP,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0.03,0.02,0.02,0.02,0.01,0.01,0.01,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,JAP,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,JAP,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,JAP,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,0.37,0.35,0.26,0.20,0.14,0.13,0.11,0.10,0.10,0.07,0.05
+IMAGE,SSP2-LF-SPA0-V17,JAP,Emissions|CH4|Energy Supply,Mt CH4/yr,0.32,0.31,0.22,0.16,0.12,0.11,0.09,0.09,0.09,0.06,0.04
+IMAGE,SSP2-LF-SPA0-V17,JAP,Emissions|CH4|Land Use,Mt CH4/yr,1.35,1.34,1.21,0.92,0.71,0.55,0.50,0.45,0.40,0.34,0.30
+IMAGE,SSP2-LF-SPA0-V17,JAP,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,JAP,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,1.34,1.33,1.20,0.92,0.70,0.55,0.49,0.44,0.39,0.34,0.29
+IMAGE,SSP2-LF-SPA0-V17,JAP,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0.18,0.18,0.16,0.12,0.10,0.08,0.07,0.06,0.06,0.05,0.04
+IMAGE,SSP2-LF-SPA0-V17,JAP,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,0.41,0.41,0.35,0.31,0.27,0.23,0.21,0.19,0.17,0.15,0.13
+IMAGE,SSP2-LF-SPA0-V17,JAP,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.75,0.75,0.69,0.49,0.34,0.24,0.22,0.19,0.17,0.14,0.11
+IMAGE,SSP2-LF-SPA0-V17,JAP,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.00,0.00,0.01,0.00,0.00,0.01,0.00,0.00,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,JAP,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,JAP,Emissions|CH4|Other,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,JAP,Emissions|CH4|Waste,Mt CH4/yr,0.26,0.26,0.24,0.15,0.14,0.13,0.12,0.11,0.10,0.09,0.08
+IMAGE,SSP2-LF-SPA0-V17,KOR,Emissions|CH4,Mt CH4/yr,1.88,1.94,1.77,1.37,1.04,0.85,0.75,0.67,0.62,0.55,0.49
+IMAGE,SSP2-LF-SPA0-V17,KOR,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,KOR,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0,0,0,0,0.09,0.09,0.07,0.07,0.06,0.05,0.05
+IMAGE,SSP2-LF-SPA0-V17,KOR,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.01,0.01,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,KOR,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.01,0.01,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,KOR,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,0.59,0.62,0.53,0.40,0.25,0.18,0.13,0.12,0.11,0.09,0.08
+IMAGE,SSP2-LF-SPA0-V17,KOR,Emissions|CH4|Energy Supply,Mt CH4/yr,0.44,0.47,0.40,0.28,0.14,0.09,0.05,0.04,0.05,0.04,0.02
+IMAGE,SSP2-LF-SPA0-V17,KOR,Emissions|CH4|Land Use,Mt CH4/yr,0.75,0.77,0.70,0.55,0.39,0.29,0.27,0.25,0.23,0.22,0.20
+IMAGE,SSP2-LF-SPA0-V17,KOR,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,KOR,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,0.75,0.76,0.70,0.55,0.39,0.29,0.27,0.25,0.23,0.21,0.20
+IMAGE,SSP2-LF-SPA0-V17,KOR,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0.03,0.03,0.03,0.03,0.02,0.02,0.02,0.02,0.02,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,KOR,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,0.25,0.26,0.23,0.21,0.19,0.17,0.17,0.16,0.15,0.15,0.14
+IMAGE,SSP2-LF-SPA0-V17,KOR,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.46,0,0,0.31,0.18,0.10,0.09,0.07,0.06,0.05,0.04
+IMAGE,SSP2-LF-SPA0-V17,KOR,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,KOR,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,KOR,Emissions|CH4|Other,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,KOR,Emissions|CH4|Waste,Mt CH4/yr,0.54,0.55,0.53,0.41,0.39,0.37,0.34,0.30,0.27,0.24,0.21
+IMAGE,SSP2-LF-SPA0-V17,ME,Emissions|CH4,Mt CH4/yr,12,15,13,9,7,8,8,8,7,6,6
+IMAGE,SSP2-LF-SPA0-V17,ME,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,ME,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0.05,0.03,0.04,0.04,0.05,0.07,0.06,0.05,0.04,0.03,0.03
+IMAGE,SSP2-LF-SPA0-V17,ME,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.04,0.04,0.05,0.05,0.03,0.02,0.02,0.01,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,ME,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.04,0.04,0.05,0.05,0.03,0.02,0.02,0.01,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,ME,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,9.17,11.06,8.68,5.14,3.16,3.17,3.01,2.72,2.03,1.13,0.65
+IMAGE,SSP2-LF-SPA0-V17,ME,Emissions|CH4|Energy Supply,Mt CH4/yr,9.07,10.97,8.58,5.05,3.07,3.06,2.93,2.66,1.97,1.08,0.60
+IMAGE,SSP2-LF-SPA0-V17,ME,Emissions|CH4|Land Use,Mt CH4/yr,1.72,1.91,2.22,2.50,2.70,2.80,2.99,3.16,3.31,3.44,3.56
+IMAGE,SSP2-LF-SPA0-V17,ME,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.01,0.01,0.02,0.02,0.02,0.03,0.03,0.02,0.02,0.02,0.02
+IMAGE,SSP2-LF-SPA0-V17,ME,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,1.69,1.89,2.20,2.48,2.67,2.77,2.96,3.13,3.28,3.41,3.53
+IMAGE,SSP2-LF-SPA0-V17,ME,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0.06,0,0,0.10,0.11,0.12,0.12,0.13,0.14,0.14,0.15
+IMAGE,SSP2-LF-SPA0-V17,ME,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,1.47,1.66,1.97,2.27,2.47,2.58,2.77,2.95,3.10,3.24,3.36
+IMAGE,SSP2-LF-SPA0-V17,ME,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.16,0.15,0.14,0.10,0.09,0.07,0.06,0.05,0.04,0.03,0.03
+IMAGE,SSP2-LF-SPA0-V17,ME,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,ME,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,ME,Emissions|CH4|Other,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,ME,Emissions|CH4|Waste,Mt CH4/yr,1.50,1.69,1.86,1.57,1.58,1.69,1.73,1.74,1.77,1.77,1.75
+IMAGE,SSP2-LF-SPA0-V17,MEX,Emissions|CH4,Mt CH4/yr,6.16,6.26,5.22,4.14,3.75,3.53,3.22,3.15,3.10,3.01,2.92
+IMAGE,SSP2-LF-SPA0-V17,MEX,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,MEX,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0.09,0.08,0.07,0.07,0.08,0.08,0.06,0.06,0.05,0.05,0.04
+IMAGE,SSP2-LF-SPA0-V17,MEX,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,MEX,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,MEX,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,1.94,2.11,1.38,0.71,0.46,0.38,0.26,0.21,0.20,0.16,0.13
+IMAGE,SSP2-LF-SPA0-V17,MEX,Emissions|CH4|Energy Supply,Mt CH4/yr,1.84,2.02,1.29,0.63,0.37,0.29,0.19,0.15,0.14,0.11,0.09
+IMAGE,SSP2-LF-SPA0-V17,MEX,Emissions|CH4|Land Use,Mt CH4/yr,3.31,3.16,2.86,2.71,2.65,2.52,2.34,2.32,2.30,2.25,2.21
+IMAGE,SSP2-LF-SPA0-V17,MEX,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.03,0.03,0.04,0.04,0.04,0.05,0.04,0.04,0.04,0.04,0.04
+IMAGE,SSP2-LF-SPA0-V17,MEX,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,2.55,2.60,2.47,2.36,2.23,2.08,2.06,2.04,2.01,1.98,1.95
+IMAGE,SSP2-LF-SPA0-V17,MEX,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0.24,0.24,0.25,0.23,0.23,0.22,0.22,0.22,0.22,0.22,0.22
+IMAGE,SSP2-LF-SPA0-V17,MEX,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,2.30,2.35,2.21,2.12,1.99,1.85,1.83,1.81,1.79,1.76,1.73
+IMAGE,SSP2-LF-SPA0-V17,MEX,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,MEX,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.47,0.27,0.08,0.04,0.13,0.17,0.02,0.03,0.03,0.04,0.04
+IMAGE,SSP2-LF-SPA0-V17,MEX,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0.26,0.26,0.27,0.27,0.25,0.22,0.21,0.21,0.21,0.20,0.18
+IMAGE,SSP2-LF-SPA0-V17,MEX,Emissions|CH4|Other,Mt CH4/yr,0.00,0.00,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,MEX,Emissions|CH4|Waste,Mt CH4/yr,1,1,1,1,1,1,1,1,1,1,1
+IMAGE,SSP2-LF-SPA0-V17,NAF,Emissions|CH4,Mt CH4/yr,6,6,5,4,3,3,3,3,3,3,3
+IMAGE,SSP2-LF-SPA0-V17,NAF,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,NAF,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0.12,0.09,0.07,0.06,0.09,0.09,0.07,0.06,0.06,0.05,0.05
+IMAGE,SSP2-LF-SPA0-V17,NAF,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,NAF,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.01,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,NAF,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,3.39,3.63,3.06,1.82,0.85,0.59,0.42,0.31,0.26,0.19,0.13
+IMAGE,SSP2-LF-SPA0-V17,NAF,Emissions|CH4|Energy Supply,Mt CH4/yr,3.26,3.53,2.97,1.74,0.75,0.49,0.34,0.25,0.20,0.13,0.08
+IMAGE,SSP2-LF-SPA0-V17,NAF,Emissions|CH4|Land Use,Mt CH4/yr,1.25,1.35,1.36,1.37,1.35,1.31,1.37,1.42,1.47,1.50,1.54
+IMAGE,SSP2-LF-SPA0-V17,NAF,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,NAF,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,1.24,1.34,1.35,1.36,1.34,1.30,1.36,1.42,1.46,1.50,1.53
+IMAGE,SSP2-LF-SPA0-V17,NAF,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0.04,0,0,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.05
+IMAGE,SSP2-LF-SPA0-V17,NAF,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,1.10,1.21,1.22,1.26,1.25,1.23,1.29,1.34,1.39,1.43,1.47
+IMAGE,SSP2-LF-SPA0-V17,NAF,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.10,0.10,0.09,0.07,0.05,0.04,0.03,0.03,0.03,0.03,0.02
+IMAGE,SSP2-LF-SPA0-V17,NAF,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,NAF,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,NAF,Emissions|CH4|Other,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,NAF,Emissions|CH4|Waste,Mt CH4/yr,0.93,1.01,1.06,0.90,0.91,0.94,0.94,0.92,0.88,0.85,0.83
+IMAGE,SSP2-LF-SPA0-V17,OCE,Emissions|CH4,Mt CH4/yr,7.37,7.63,7.13,5.89,5.53,5.28,4.52,4.50,4.49,4.40,4.26
+IMAGE,SSP2-LF-SPA0-V17,OCE,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,OCE,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0.05,0.05,0.02,0.01,0.01,0.01,0.01,0.02,0.01,0.01,0.00
+IMAGE,SSP2-LF-SPA0-V17,OCE,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,OCE,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,OCE,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,1.64,1.65,1.33,0.55,0.31,0.22,0.18,0.23,0.26,0.27,0.24
+IMAGE,SSP2-LF-SPA0-V17,OCE,Emissions|CH4|Energy Supply,Mt CH4/yr,1.57,1.59,1.29,0.53,0.29,0.21,0.17,0.21,0.25,0.26,0.24
+IMAGE,SSP2-LF-SPA0-V17,OCE,Emissions|CH4|Land Use,Mt CH4/yr,5.13,5.32,5.19,5.00,5.06,4.88,4.15,4.07,4.02,3.92,3.81
+IMAGE,SSP2-LF-SPA0-V17,OCE,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.03,0.04,0.04,0.04,0.05,0.06,0.06,0.06,0.06,0.05,0.05
+IMAGE,SSP2-LF-SPA0-V17,OCE,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,4,5,4,4,4,4,4,4,4,4,3
+IMAGE,SSP2-LF-SPA0-V17,OCE,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0.33,0.35,0.35,0.29,0.27,0.25,0.25,0.24,0.24,0.23,0.22
+IMAGE,SSP2-LF-SPA0-V17,OCE,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,3.96,4.14,3.98,3.96,3.75,3.51,3.47,3.42,3.37,3.31,3.25
+IMAGE,SSP2-LF-SPA0-V17,OCE,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.02,0.02,0.03,0.02,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,OCE,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.03,0.02,0.08,0.01,0.47,0.68,0.07,0.02,0.01,0.03,0.01
+IMAGE,SSP2-LF-SPA0-V17,OCE,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0.76,0.75,0.71,0.68,0.49,0.37,0.29,0.32,0.33,0.28,0.27
+IMAGE,SSP2-LF-SPA0-V17,OCE,Emissions|CH4|Other,Mt CH4/yr,0.00,0.00,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,OCE,Emissions|CH4|Waste,Mt CH4/yr,1,1,1,0.33,0.16,0.18,0.19,0.20,0.21,0.21,0.21
+IMAGE,SSP2-LF-SPA0-V17,RCAM,Emissions|CH4,Mt CH4/yr,2.88,3.39,3.09,2.59,2.35,2.19,1.99,1.93,1.87,1.80,1.71
+IMAGE,SSP2-LF-SPA0-V17,RCAM,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.00,0.00,0.01,0.01,0.00,0.01,0.01,0.01,0.01,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,RCAM,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0.16,0,0,0.16,0.16,0.12,0.10,0.09,0.08,0.07,0.06
+IMAGE,SSP2-LF-SPA0-V17,RCAM,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,RCAM,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.00,0.00,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,RCAM,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,0.60,0.74,0.77,0.60,0.40,0.33,0.19,0.16,0.15,0.12,0.10
+IMAGE,SSP2-LF-SPA0-V17,RCAM,Emissions|CH4|Energy Supply,Mt CH4/yr,0.43,0.56,0.59,0.42,0.23,0.21,0.08,0.06,0.06,0.05,0.04
+IMAGE,SSP2-LF-SPA0-V17,RCAM,Emissions|CH4|Land Use,Mt CH4/yr,1.60,1.93,1.53,1.35,1.29,1.19,1.13,1.11,1.09,1.07,1.03
+IMAGE,SSP2-LF-SPA0-V17,RCAM,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.02,0.02,0.03,0.03,0.03,0.03,0.03,0.03,0.03,0.03,0.03
+IMAGE,SSP2-LF-SPA0-V17,RCAM,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,1.31,1.36,1.31,1.25,1.16,1.07,1.05,1.03,1.01,0.99,0.97
+IMAGE,SSP2-LF-SPA0-V17,RCAM,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0.04,0.04,0.04,0.04,0.04,0.03,0.03,0.03,0.03,0.03,0.03
+IMAGE,SSP2-LF-SPA0-V17,RCAM,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,1.16,1.20,1.16,1.14,1.07,1.00,0.98,0.97,0.95,0.93,0.92
+IMAGE,SSP2-LF-SPA0-V17,RCAM,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.12,0.12,0.10,0.07,0.05,0.04,0.03,0.03,0.03,0.02,0.02
+IMAGE,SSP2-LF-SPA0-V17,RCAM,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.24,0.52,0.16,0.04,0.07,0.06,0.02,0.02,0.02,0.03,0.01
+IMAGE,SSP2-LF-SPA0-V17,RCAM,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0,0,0,0,0,0,0,0,0,0,0
+IMAGE,SSP2-LF-SPA0-V17,RCAM,Emissions|CH4|Other,Mt CH4/yr,0.00,0.00,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,RCAM,Emissions|CH4|Waste,Mt CH4/yr,0.66,0.72,0.77,0.62,0.63,0.64,0.63,0.62,0.60,0.57,0.54
+IMAGE,SSP2-LF-SPA0-V17,RSAF,Emissions|CH4,Mt CH4/yr,5.47,5.33,6.61,4.86,5.62,5.47,4.52,4.59,4.90,4.57,4.36
+IMAGE,SSP2-LF-SPA0-V17,RSAF,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.00,0.00,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,RSAF,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0.49,0.56,1,0,0,0,0,0,0,0,0
+IMAGE,SSP2-LF-SPA0-V17,RSAF,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,RSAF,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,RSAF,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,0.70,0.69,0.75,0.60,0.54,0.52,0.56,0.61,0.65,0.51,0.41
+IMAGE,SSP2-LF-SPA0-V17,RSAF,Emissions|CH4|Energy Supply,Mt CH4/yr,0.19,0.11,0.19,0.09,0.06,0.09,0.13,0.17,0.22,0.14,0.12
+IMAGE,SSP2-LF-SPA0-V17,RSAF,Emissions|CH4|Land Use,Mt CH4/yr,4.15,3.92,4.99,3.32,3.99,3.72,2.60,2.53,2.74,2.49,2.35
+IMAGE,SSP2-LF-SPA0-V17,RSAF,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.01,0.01,0.02,0.02,0.03,0.04,0.05,0.06,0.06,0.06,0.06
+IMAGE,SSP2-LF-SPA0-V17,RSAF,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,1.64,1.74,1.88,1.95,1.87,1.64,1.54,1.52,1.57,1.63,1.68
+IMAGE,SSP2-LF-SPA0-V17,RSAF,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0.04,0.04,0.05,0.05,0.06,0.05,0.05,0.05,0.05,0.05,0.05
+IMAGE,SSP2-LF-SPA0-V17,RSAF,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,1.48,1.58,1.71,1.82,1.75,1.54,1.45,1.43,1.48,1.54,1.60
+IMAGE,SSP2-LF-SPA0-V17,RSAF,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.12,0.12,0.11,0.08,0.06,0.05,0.04,0.04,0.04,0.03,0.03
+IMAGE,SSP2-LF-SPA0-V17,RSAF,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,1.07,0.79,1.81,0.11,1.01,1.07,0.09,0.09,0.32,0.14,0.00
+IMAGE,SSP2-LF-SPA0-V17,RSAF,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,1.43,1.36,1.29,1.24,1.08,0.96,0.92,0.86,0.78,0.67,0.60
+IMAGE,SSP2-LF-SPA0-V17,RSAF,Emissions|CH4|Other,Mt CH4/yr,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,RSAF,Emissions|CH4|Waste,Mt CH4/yr,0.62,0.72,0.87,0.94,1.08,1.23,1.35,1.45,1.51,1.56,1.59
+IMAGE,SSP2-LF-SPA0-V17,RSAM,Emissions|CH4,Mt CH4/yr,14.82,16.28,16.57,14.45,13.16,13.22,12.05,11.96,11.80,11.47,11.21
+IMAGE,SSP2-LF-SPA0-V17,RSAM,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,RSAM,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0.15,0.17,0.17,0.15,0.17,0.16,0.12,0.11,0.10,0.08,0.07
+IMAGE,SSP2-LF-SPA0-V17,RSAM,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0,0,0,0,0.01,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,RSAM,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.01,0.01,0.02,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,RSAM,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,2.90,3.05,3.15,2.17,1.38,1.13,0.92,0.81,0.68,0.50,0.38
+IMAGE,SSP2-LF-SPA0-V17,RSAM,Emissions|CH4|Energy Supply,Mt CH4/yr,2.71,2.84,2.94,1.97,1.17,0.95,0.79,0.68,0.57,0.41,0.30
+IMAGE,SSP2-LF-SPA0-V17,RSAM,Emissions|CH4|Land Use,Mt CH4/yr,10.49,11.69,11.77,10.91,10.39,10.67,9.72,9.77,9.79,9.70,9.63
+IMAGE,SSP2-LF-SPA0-V17,RSAM,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.09,0.10,0.13,0.14,0.15,0.17,0.16,0.15,0.14,0.13,0.12
+IMAGE,SSP2-LF-SPA0-V17,RSAM,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,8.96,9.74,9.91,9.77,9.36,8.89,8.90,8.90,8.88,8.85,8.80
+IMAGE,SSP2-LF-SPA0-V17,RSAM,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0.20,0.22,0.23,0.22,0.21,0.20,0.20,0.20,0.20,0.20,0.20
+IMAGE,SSP2-LF-SPA0-V17,RSAM,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,8.30,9.06,9.27,9.27,8.95,8.54,8.57,8.58,8.58,8.56,8.53
+IMAGE,SSP2-LF-SPA0-V17,RSAM,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.46,0.46,0.41,0.28,0.20,0.15,0.13,0.12,0.10,0.09,0.08
+IMAGE,SSP2-LF-SPA0-V17,RSAM,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.75,1.19,1.02,0.27,0.20,1.00,0.08,0.15,0.21,0.21,0.24
+IMAGE,SSP2-LF-SPA0-V17,RSAM,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0.69,0.66,0.70,0.73,0.68,0.61,0.57,0.57,0.56,0.51,0.47
+IMAGE,SSP2-LF-SPA0-V17,RSAM,Emissions|CH4|Other,Mt CH4/yr,0.02,0.02,0.02,0.02,0.02,0.01,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,RSAM,Emissions|CH4|Waste,Mt CH4/yr,1,2,2,1,1,1,1,1,1,1,1
+IMAGE,SSP2-LF-SPA0-V17,RSAS,Emissions|CH4,Mt CH4/yr,12.73,13.80,13.45,11.85,10.74,9.89,9.49,9.12,8.74,8.26,7.75
+IMAGE,SSP2-LF-SPA0-V17,RSAS,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.02,0.02,0.02
+IMAGE,SSP2-LF-SPA0-V17,RSAS,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0.38,0.42,0.53,0.61,0.72,0.65,0.43,0.34,0.28,0.24,0.20
+IMAGE,SSP2-LF-SPA0-V17,RSAS,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.01,0.01,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,RSAS,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.01,0.01,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,RSAS,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,1.13,1.22,1.21,1.22,1.16,1.11,0.94,0.81,0.71,0.55,0.41
+IMAGE,SSP2-LF-SPA0-V17,RSAS,Emissions|CH4|Energy Supply,Mt CH4/yr,0.73,0.78,0.66,0.59,0.42,0.44,0.48,0.45,0.41,0.29,0.18
+IMAGE,SSP2-LF-SPA0-V17,RSAS,Emissions|CH4|Land Use,Mt CH4/yr,9.53,10.33,9.66,8.12,6.83,5.80,5.43,5.13,4.84,4.57,4.30
+IMAGE,SSP2-LF-SPA0-V17,RSAS,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.03,0.04,0.05,0.06,0.06,0.06,0.06,0.06,0.05,0.05,0.05
+IMAGE,SSP2-LF-SPA0-V17,RSAS,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,9.36,10.24,9.56,8.03,6.70,5.66,5.34,5.05,4.77,4.50,4.23
+IMAGE,SSP2-LF-SPA0-V17,RSAS,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0.36,0.39,0.37,0.26,0.18,0.17,0.16,0.15,0.14,0.13,0.12
+IMAGE,SSP2-LF-SPA0-V17,RSAS,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,5.55,6.15,5.66,5.28,4.67,4.12,3.93,3.78,3.65,3.52,3.39
+IMAGE,SSP2-LF-SPA0-V17,RSAS,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,3.46,3.71,3.53,2.49,1.85,1.36,1.24,1.11,0.98,0.85,0.72
+IMAGE,SSP2-LF-SPA0-V17,RSAS,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.11,0.02,0.04,0.02,0.05,0.07,0.03,0.01,0.01,0.02,0.02
+IMAGE,SSP2-LF-SPA0-V17,RSAS,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0.03,0.02,0.02,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,RSAS,Emissions|CH4|Other,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,RSAS,Emissions|CH4|Waste,Mt CH4/yr,2,2,3,2,3,3,3,3,3,3,3.01
+IMAGE,SSP2-LF-SPA0-V17,RUS,Emissions|CH4,Mt CH4/yr,19.00,18.58,14.26,8.84,6.22,4.95,4.22,3.84,3.40,2.98,2.74
+IMAGE,SSP2-LF-SPA0-V17,RUS,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.01,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,RUS,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0.17,0.16,0.12,0.08,0.06,0.05,0.04,0.03,0.02,0.02,0.01
+IMAGE,SSP2-LF-SPA0-V17,RUS,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.03,0.03,0.02,0.02,0.01,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,RUS,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.03,0.03,0.02,0.02,0.01,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,RUS,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,14.35,13.95,10.00,5.59,3.39,2.31,1.64,1.29,0.86,0.46,0.24
+IMAGE,SSP2-LF-SPA0-V17,RUS,Emissions|CH4|Energy Supply,Mt CH4/yr,14.13,13.75,9.84,5.48,3.31,2.25,1.59,1.26,0.83,0.43,0.22
+IMAGE,SSP2-LF-SPA0-V17,RUS,Emissions|CH4|Land Use,Mt CH4/yr,2.36,2.35,2.33,2.25,2.14,2.03,2.04,2.05,2.05,2.05,2.04
+IMAGE,SSP2-LF-SPA0-V17,RUS,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.03,0.03,0.04,0.04,0.05,0.06,0.06,0.05,0.05,0.05,0.04
+IMAGE,SSP2-LF-SPA0-V17,RUS,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,2.33,2.32,2.29,2.21,2.09,1.97,1.98,1.99,2.00,2.00,2.00
+IMAGE,SSP2-LF-SPA0-V17,RUS,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0.40,0.40,0.42,0.40,0.38,0.37,0.37,0.37,0.37,0.37,0.37
+IMAGE,SSP2-LF-SPA0-V17,RUS,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,1.89,1.89,1.84,1.79,1.70,1.59,1.60,1.61,1.61,1.62,1.62
+IMAGE,SSP2-LF-SPA0-V17,RUS,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.04,0.03,0.03,0.02,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,RUS,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,RUS,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,RUS,Emissions|CH4|Other,Mt CH4/yr,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,RUS,Emissions|CH4|Waste,Mt CH4/yr,2,2,2,1,1,1,1,0,0,0,0
+IMAGE,SSP2-LF-SPA0-V17,SAF,Emissions|CH4,Mt CH4/yr,2.82,3.09,3.37,2.13,1.94,1.86,1.93,2.09,2.31,2.49,2.54
+IMAGE,SSP2-LF-SPA0-V17,SAF,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,SAF,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0.12,0.13,0.11,0.10,0.10,0.08,0.06,0.05,0.04,0.04,0.03
+IMAGE,SSP2-LF-SPA0-V17,SAF,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,SAF,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,SAF,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,1,2,2,0.73,0.53,0.47,0.46,0.57,0.75,0.89,0.90
+IMAGE,SSP2-LF-SPA0-V17,SAF,Emissions|CH4|Energy Supply,Mt CH4/yr,1.24,1.44,1.64,0.61,0.41,0.38,0.40,0.52,0.70,0.85,0.87
+IMAGE,SSP2-LF-SPA0-V17,SAF,Emissions|CH4|Land Use,Mt CH4/yr,0.98,1.00,1.10,1.04,1.06,1.04,1.12,1.19,1.26,1.31,1.36
+IMAGE,SSP2-LF-SPA0-V17,SAF,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.00,0.00,0.00,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,SAF,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,0.89,0.93,0.93,0.97,0.99,1.00,1.08,1.15,1.22,1.28,1.33
+IMAGE,SSP2-LF-SPA0-V17,SAF,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0.02,0.02,0.02,0.03,0.03,0.03,0.03,0.04,0.04,0.04,0.04
+IMAGE,SSP2-LF-SPA0-V17,SAF,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,0.87,0.90,0.90,0.94,0.96,0.97,1.05,1.11,1.18,1.23,1.29
+IMAGE,SSP2-LF-SPA0-V17,SAF,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,SAF,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.02,0.00,0.12,0.03,0.03,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,SAF,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0,0,0.05,0.04,0.03,0.03,0.04,0.04,0.03,0.03,0.03
+IMAGE,SSP2-LF-SPA0-V17,SAF,Emissions|CH4|Other,Mt CH4/yr,0.00,0.00,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,SAF,Emissions|CH4|Waste,Mt CH4/yr,0.47,0.50,0.50,0.36,0.35,0.35,0.34,0.32,0.30,0.28,0.27
+IMAGE,SSP2-LF-SPA0-V17,SEAS,Emissions|CH4,Mt CH4/yr,17.21,18.57,17.81,13.83,11.39,11.67,8.07,7.70,7.33,6.81,6.22
+IMAGE,SSP2-LF-SPA0-V17,SEAS,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.00
+IMAGE,SSP2-LF-SPA0-V17,SEAS,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0.76,0.76,0.65,0.48,0.48,0.33,0.22,0.18,0.14,0.10,0.08
+IMAGE,SSP2-LF-SPA0-V17,SEAS,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.02,0.02,0.03,0.03,0.02,0.01,0.01,0.01,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,SEAS,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.02,0.02,0.03,0.03,0.02,0.01,0.01,0.01,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,SEAS,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,3.72,4.03,3.92,2.57,1.48,1.02,0.77,0.64,0.51,0.39,0.29
+IMAGE,SSP2-LF-SPA0-V17,SEAS,Emissions|CH4|Energy Supply,Mt CH4/yr,2.92,3.23,3.20,2.02,0.95,0.66,0.53,0.43,0.35,0.27,0.19
+IMAGE,SSP2-LF-SPA0-V17,SEAS,Emissions|CH4|Land Use,Mt CH4/yr,11.09,11.94,11.13,8.86,7.42,8.10,4.76,4.58,4.43,4.16,3.81
+IMAGE,SSP2-LF-SPA0-V17,SEAS,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.34,0.38,0.46,0.50,0.59,0.67,0.65,0.63,0.60,0.57,0.54
+IMAGE,SSP2-LF-SPA0-V17,SEAS,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,10,10,10,7,5,4,4,4,3,3,3
+IMAGE,SSP2-LF-SPA0-V17,SEAS,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0,0,1,0.42,0.32,0.33,0.31,0.30,0.28,0.27,0.26
+IMAGE,SSP2-LF-SPA0-V17,SEAS,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,2.05,2.27,2.20,2.21,2.06,1.90,1.87,1.84,1.81,1.77,1.73
+IMAGE,SSP2-LF-SPA0-V17,SEAS,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,7.12,7.34,6.81,4.87,2.90,1.67,1.54,1.42,1.28,1.12,0.96
+IMAGE,SSP2-LF-SPA0-V17,SEAS,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.69,1.04,0.74,0.48,1.22,3.30,0.15,0.16,0.23,0.23,0.13
+IMAGE,SSP2-LF-SPA0-V17,SEAS,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0,0,0.41,0.39,0.32,0.23,0.22,0.23,0.22,0.20,0.19
+IMAGE,SSP2-LF-SPA0-V17,SEAS,Emissions|CH4|Other,Mt CH4/yr,0.00,0.01,0.03,0.04,0.02,0.01,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,SEAS,Emissions|CH4|Waste,Mt CH4/yr,2,3,3,2,2,3,3,2,2,2,2
+IMAGE,SSP2-LF-SPA0-V17,STAN,Emissions|CH4,Mt CH4/yr,5.77,6.54,6.49,5.11,4.04,3.17,2.67,2.27,2.17,2.04,1.97
+IMAGE,SSP2-LF-SPA0-V17,STAN,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,STAN,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0.06,0.08,0.07,0.06,0.08,0.08,0.06,0.04,0.02,0.02,0.02
+IMAGE,SSP2-LF-SPA0-V17,STAN,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,STAN,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,STAN,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,3.89,4.48,4.25,3.02,2.04,1.28,0.80,0.44,0.37,0.29,0.26
+IMAGE,SSP2-LF-SPA0-V17,STAN,Emissions|CH4|Energy Supply,Mt CH4/yr,3.82,4.38,4.16,2.94,1.95,1.20,0.74,0.40,0.34,0.27,0.24
+IMAGE,SSP2-LF-SPA0-V17,STAN,Emissions|CH4|Land Use,Mt CH4/yr,1.39,1.54,1.66,1.62,1.50,1.39,1.37,1.35,1.33,1.31,1.29
+IMAGE,SSP2-LF-SPA0-V17,STAN,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,STAN,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,1.39,1.53,1.65,1.61,1.49,1.38,1.36,1.34,1.32,1.30,1.28
+IMAGE,SSP2-LF-SPA0-V17,STAN,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0.12,0.14,0.18,0.18,0.18,0.18,0.18,0.18,0.18,0.18,0.18
+IMAGE,SSP2-LF-SPA0-V17,STAN,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,1.23,1.35,1.43,1.41,1.30,1.19,1.17,1.15,1.13,1.11,1.09
+IMAGE,SSP2-LF-SPA0-V17,STAN,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.04,0.04,0.04,0.03,0.02,0.01,0.01,0.01,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,STAN,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,STAN,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,STAN,Emissions|CH4|Other,Mt CH4/yr,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,STAN,Emissions|CH4|Waste,Mt CH4/yr,0,1,1,0,0.49,0.50,0.49,0.48,0.46,0.44,0.41
+IMAGE,SSP2-LF-SPA0-V17,TUR,Emissions|CH4,Mt CH4/yr,3.43,3.64,3.43,2.63,2.43,2.44,2.33,2.24,2.16,2.12,2.08
+IMAGE,SSP2-LF-SPA0-V17,TUR,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.00,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,TUR,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0.19,0.17,0.13,0.09,0,0,0,0,0,0,0
+IMAGE,SSP2-LF-SPA0-V17,TUR,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.01,0,0,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,TUR,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.01,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,TUR,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,0.59,0.62,0.51,0.33,0.29,0.36,0.29,0.26,0.24,0.21,0.18
+IMAGE,SSP2-LF-SPA0-V17,TUR,Emissions|CH4|Energy Supply,Mt CH4/yr,0.39,0.44,0.36,0.22,0.18,0.23,0.18,0.17,0.16,0.14,0.13
+IMAGE,SSP2-LF-SPA0-V17,TUR,Emissions|CH4|Land Use,Mt CH4/yr,1.30,1.36,1.38,1.37,1.35,1.30,1.32,1.32,1.33,1.33,1.33
+IMAGE,SSP2-LF-SPA0-V17,TUR,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.03,0.04,0.04,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.04
+IMAGE,SSP2-LF-SPA0-V17,TUR,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,1.25,1.31,1,1,1.28,1.24,1.25,1.26,1.27,1.28,1.28
+IMAGE,SSP2-LF-SPA0-V17,TUR,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0.25,0.26,0.27,0.26,0.25,0.25,0.25,0.25,0.25,0.25,0.25
+IMAGE,SSP2-LF-SPA0-V17,TUR,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,0.97,1.02,1.03,1.04,1.02,0.98,1.00,1.01,1.02,1.03,1.03
+IMAGE,SSP2-LF-SPA0-V17,TUR,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.02,0.02,0.02,0.01,0.01,0.01,0.01,0.01,0.01,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,TUR,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,TUR,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0.02,0.02,0.02,0.02,0.02,0.01,0.01,0.01,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,TUR,Emissions|CH4|Other,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,TUR,Emissions|CH4|Waste,Mt CH4/yr,2,2,2,1,1,1,1,1,1,1,1
+IMAGE,SSP2-LF-SPA0-V17,UKR,Emissions|CH4,Mt CH4/yr,4.01,3.55,2.81,1.94,1.44,1.23,1.15,1.11,1.07,1.02,0.98
+IMAGE,SSP2-LF-SPA0-V17,UKR,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.00,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,UKR,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0.11,0.06,0.04,0.04,0.08,0.05,0.04,0.04,0.03,0.03,0.04
+IMAGE,SSP2-LF-SPA0-V17,UKR,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,UKR,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,UKR,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,2.36,1.95,1.36,0.78,0.35,0.20,0.14,0.13,0.11,0.09,0.09
+IMAGE,SSP2-LF-SPA0-V17,UKR,Emissions|CH4|Energy Supply,Mt CH4/yr,2.23,1.87,1.30,0.72,0.26,0.14,0.10,0.09,0.07,0.06,0.05
+IMAGE,SSP2-LF-SPA0-V17,UKR,Emissions|CH4|Land Use,Mt CH4/yr,0.95,0.92,0.83,0.78,0.74,0.69,0.69,0.69,0.68,0.67,0.67
+IMAGE,SSP2-LF-SPA0-V17,UKR,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.01,0.01,0.01,0.02,0.02,0.02,0.02,0.02,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,UKR,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,0.94,0.91,0.82,0.76,0.72,0.68,0.67,0.67,0.67,0.66,0.66
+IMAGE,SSP2-LF-SPA0-V17,UKR,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0.19,0.18,0.18,0.16,0.15,0.15,0.14,0.14,0.14,0.14,0.14
+IMAGE,SSP2-LF-SPA0-V17,UKR,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,0.74,0.72,0.64,0.60,0.57,0.53,0.53,0.53,0.52,0.52,0.52
+IMAGE,SSP2-LF-SPA0-V17,UKR,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,UKR,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,UKR,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,UKR,Emissions|CH4|Other,Mt CH4/yr,0.00,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,UKR,Emissions|CH4|Waste,Mt CH4/yr,1,1,1,0,0,0.33,0.31,0.29,0.27,0.25,0.23
+IMAGE,SSP2-LF-SPA0-V17,USA,Emissions|CH4,Mt CH4/yr,28.23,28.31,24.07,19.37,17.01,15.41,14.84,15.50,16.67,17.32,17.11
+IMAGE,SSP2-LF-SPA0-V17,USA,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.05,0.05,0.05,0.04,0.03,0.02,0.02,0.02,0.02,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,USA,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0.15,0.13,0.14,0.13,0.12,0.09,0.07,0,0,0,0
+IMAGE,SSP2-LF-SPA0-V17,USA,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.07,0.06,0.06,0.04,0.01,0.01,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,USA,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.07,0.06,0.06,0.04,0.01,0.01,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,USA,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,12.15,12,8.93,5.05,3.10,2.01,1.23,1.77,2.89,3.58,3.53
+IMAGE,SSP2-LF-SPA0-V17,USA,Emissions|CH4|Energy Supply,Mt CH4/yr,11.87,11.33,8.68,4.85,2.94,1.88,1.13,1.69,2.82,3.53,3.49
+IMAGE,SSP2-LF-SPA0-V17,USA,Emissions|CH4|Land Use,Mt CH4/yr,10.29,10.59,8.90,7.46,6.51,5.52,5.28,5.00,4.77,4.57,4.34
+IMAGE,SSP2-LF-SPA0-V17,USA,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.03,0.03
+IMAGE,SSP2-LF-SPA0-V17,USA,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,10.16,10.45,9,7.32,6.29,5.30,5.10,4.89,4.68,4.46,4.24
+IMAGE,SSP2-LF-SPA0-V17,USA,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,2.18,2.27,2.18,1.66,1.49,1.33,1.29,1.25,1.20,1.16,1.10
+IMAGE,SSP2-LF-SPA0-V17,USA,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,7.62,7.82,6.24,5.40,4.61,3.83,3.68,3.53,3.37,3.21,3.06
+IMAGE,SSP2-LF-SPA0-V17,USA,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.36,0.36,0.35,0.26,0.19,0.14,0.13,0.12,0.10,0.09,0.08
+IMAGE,SSP2-LF-SPA0-V17,USA,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.03,0.04,0.02,0.03,0.11,0.12,0.09,0.02,0.01,0.04,0.02
+IMAGE,SSP2-LF-SPA0-V17,USA,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0.07,0.07,0.07,0.06,0.06,0.05,0.05,0.05,0.05,0.04,0.04
+IMAGE,SSP2-LF-SPA0-V17,USA,Emissions|CH4|Other,Mt CH4/yr,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,USA,Emissions|CH4|Waste,Mt CH4/yr,5.78,6,6,6.84,7,7.86,8.32,8.72,9.00,9.17,9.23
+IMAGE,SSP2-LF-SPA0-V17,WAF,Emissions|CH4,Mt CH4/yr,9.49,11.77,14.60,12.51,11.53,12.07,12.54,12.61,12.51,12.31,12.08
+IMAGE,SSP2-LF-SPA0-V17,WAF,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0,0,0,0,0,0,0,0,0,0,0
+IMAGE,SSP2-LF-SPA0-V17,WAF,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0.77,0.90,1.15,1.25,1.30,1.18,1.16,1.04,0.93,0.76,0.55
+IMAGE,SSP2-LF-SPA0-V17,WAF,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.01,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.01
+IMAGE,SSP2-LF-SPA0-V17,WAF,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.01,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.01
+IMAGE,SSP2-LF-SPA0-V17,WAF,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,1.61,2,2.19,2.10,1.98,2.14,2.16,1.89,1.59,1.30,1.01
+IMAGE,SSP2-LF-SPA0-V17,WAF,Emissions|CH4|Energy Supply,Mt CH4/yr,0.82,0.91,1.00,0.81,0.64,0.90,0.93,0.75,0.53,0.41,0.33
+IMAGE,SSP2-LF-SPA0-V17,WAF,Emissions|CH4|Land Use,Mt CH4/yr,5.92,7.66,9.65,7.46,6.10,5.95,5.96,5.95,5.89,5.78,5.68
+IMAGE,SSP2-LF-SPA0-V17,WAF,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.03,0.03,0.05,0.06,0.06,0.06,0.06,0.06,0.06,0.05,0.05
+IMAGE,SSP2-LF-SPA0-V17,WAF,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,4.35,4.80,5.01,5.29,5.21,5.06,5.09,5.10,5.08,5.06,5.01
+IMAGE,SSP2-LF-SPA0-V17,WAF,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,0,0,0,0.17,0.18,0.18,0.18,0.18,0.18,0.18,0.17
+IMAGE,SSP2-LF-SPA0-V17,WAF,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,3.57,3.92,4.11,4.59,4.68,4.64,4.69,4.72,4.73,4.73,4.71
+IMAGE,SSP2-LF-SPA0-V17,WAF,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.64,0.72,0.73,0.53,0.35,0.24,0.22,0.20,0.17,0.15,0.13
+IMAGE,SSP2-LF-SPA0-V17,WAF,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.47,1.81,3.70,1.27,0.01,0.01,0.01,0.02,0.02,0.01,0.02
+IMAGE,SSP2-LF-SPA0-V17,WAF,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,1.08,1.02,0.90,0.84,0.82,0.82,0.80,0.78,0.73,0.66,0.60
+IMAGE,SSP2-LF-SPA0-V17,WAF,Emissions|CH4|Other,Mt CH4/yr,0.00,0.01,0.01,0.02,0.02,0.03,0.05,0.07,0.08,0.08,0.08
+IMAGE,SSP2-LF-SPA0-V17,WAF,Emissions|CH4|Waste,Mt CH4/yr,1.96,2.26,2.76,2.95,3.44,3.96,4.39,4.73,4.98,5.16,5.32
+IMAGE,SSP2-LF-SPA0-V17,WEU,Emissions|CH4,Mt CH4/yr,21.64,20.97,16.43,12.25,10.24,9.39,9.08,9.03,8.99,8.69,8.31
+IMAGE,SSP2-LF-SPA0-V17,WEU,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.03,0.03,0.02,0.02,0.02,0.02,0.02,0.01,0.01,0.01,0.00
+IMAGE,SSP2-LF-SPA0-V17,WEU,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,0.47,0.40,0.24,0.15,0.13,0.10,0.12,0.09,0.08,0.07,0
+IMAGE,SSP2-LF-SPA0-V17,WEU,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.06,0.06,0.05,0.04,0.02,0.02,0.01,0.01,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,WEU,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.06,0.06,0.05,0.04,0.02,0.02,0.01,0.01,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,WEU,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,6.86,5.86,2.82,1.40,0.93,0.72,0.63,0.71,0.81,0.69,0.50
+IMAGE,SSP2-LF-SPA0-V17,WEU,Emissions|CH4|Energy Supply,Mt CH4/yr,6.27,5.36,2.48,1.18,0.75,0.58,0.49,0.59,0.72,0.61,0.43
+IMAGE,SSP2-LF-SPA0-V17,WEU,Emissions|CH4|Land Use,Mt CH4/yr,10.14,10.27,9.50,8.81,8.24,7.72,7.48,7.35,7.19,7.03,6.85
+IMAGE,SSP2-LF-SPA0-V17,WEU,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02
+IMAGE,SSP2-LF-SPA0-V17,WEU,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,10.01,10.13,9.37,8.68,8.12,7.51,7.38,7.25,7.10,6.94,6.77
+IMAGE,SSP2-LF-SPA0-V17,WEU,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,2,2,2,1.55,1.40,1.24,1.20,1.16,1.11,1.06,1.01
+IMAGE,SSP2-LF-SPA0-V17,WEU,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,7.83,7.93,7.33,7.07,6.68,6.23,6.15,6.07,5.97,5.86,5.74
+IMAGE,SSP2-LF-SPA0-V17,WEU,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,0.09,0.08,0.08,0.06,0.04,0.03,0.03,0.02,0.02,0.02,0.02
+IMAGE,SSP2-LF-SPA0-V17,WEU,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,0.03,0.03,0.01,0.01,0.02,0.12,0.01,0.01,0.01,0.01,0.01
+IMAGE,SSP2-LF-SPA0-V17,WEU,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,0.09,0.09,0.09,0.09,0.09,0.07,0.07,0.07,0.07,0.06,0.06
+IMAGE,SSP2-LF-SPA0-V17,WEU,Emissions|CH4|Other,Mt CH4/yr,0.03,0.02,0.02,0.02,0.01,0.01,0.00,0.00,0.00,0.00,0.00
+IMAGE,SSP2-LF-SPA0-V17,WEU,Emissions|CH4|Waste,Mt CH4/yr,4.61,4.82,4.10,2.02,1.04,0.93,0.95,0.96,0.96,0.96,0.95
+IMAGE,SSP2-LF-SPA0-V17,World,Emissions|CH4,Mt CH4/yr,318.39,348.79,320.20,246.22,211.90,197.51,182.33,178.41,174.53,168.45,161.92
+IMAGE,SSP2-LF-SPA0-V17,World,Emissions|CH4|Energy Demand|Industry,Mt CH4/yr,0.44,0.53,0.49,0.43,0.36,0.35,0.32,0.28,0.24,0.22,0.19
+IMAGE,SSP2-LF-SPA0-V17,World,Emissions|CH4|Energy Demand|Residential and Commercial,Mt CH4/yr,11.28,11.76,11.15,9.31,9.46,8.10,6.85,5.74,4.92,4.00,3.14
+IMAGE,SSP2-LF-SPA0-V17,World,Emissions|CH4|Energy Demand|Transportation,Mt CH4/yr,0.45,0.46,0.55,0.48,0.30,0.18,0.13,0.10,0.09,0.09,0.10
+IMAGE,SSP2-LF-SPA0-V17,World,Emissions|CH4|Energy Demand|Transportation|Ground Transportation,Mt CH4/yr,0.45,0.46,0.55,0.48,0.30,0.18,0.13,0.10,0.09,0.09,0.10
+IMAGE,SSP2-LF-SPA0-V17,World,Emissions|CH4|Energy Supply and Demand,Mt CH4/yr,112.55,128.28,103.77,58.30,35.77,27.54,22.08,19.62,18.06,15.15,12.33
+IMAGE,SSP2-LF-SPA0-V17,World,Emissions|CH4|Energy Supply,Mt CH4/yr,100.04,115.18,91.10,47.57,25.32,18.75,14.66,13.37,12.66,10.69,8.78
+IMAGE,SSP2-LF-SPA0-V17,World,Emissions|CH4|Land Use,Mt CH4/yr,153.64,164.43,159.73,140.75,130.21,122.67,112.33,110.94,109.02,106.68,104.10
+IMAGE,SSP2-LF-SPA0-V17,World,Emissions|CH4|Land Use|Agricultural Waste Burning,Mt CH4/yr,1.41,1.60,1.93,2.12,2.34,2.53,2.45,2.37,2.28,2.16,2.04
+IMAGE,SSP2-LF-SPA0-V17,World,Emissions|CH4|Land Use|Agriculture,Mt CH4/yr,135.83,144.88,139.53,128.95,116.61,106.03,104.44,102.88,101.24,99.47,97.56
+IMAGE,SSP2-LF-SPA0-V17,World,Emissions|CH4|Land Use|Agriculture|AWM,Mt CH4/yr,10.83,11.44,11.44,9.63,8.68,8.08,7.82,7.56,7.29,7.03,6.76
+IMAGE,SSP2-LF-SPA0-V17,World,Emissions|CH4|Land Use|Agriculture|Enteric Fermentation,Mt CH4/yr,95,103,99,99,95,89.50,89.00,88.48,87.91,87.22,86.41
+IMAGE,SSP2-LF-SPA0-V17,World,Emissions|CH4|Land Use|Agriculture|Rice,Mt CH4/yr,29.79,30.89,28.60,20.33,13.14,8.45,7.62,6.84,6.03,5.22,4.40
+IMAGE,SSP2-LF-SPA0-V17,World,Emissions|CH4|Land Use|Forest Burning,Mt CH4/yr,9.51,11.37,11.96,3.57,5.89,9.39,0.97,1.36,1.36,1.35,1.11
+IMAGE,SSP2-LF-SPA0-V17,World,Emissions|CH4|Land Use|Savannah Burning,Mt CH4/yr,6.89,6.59,6.30,6.11,5.37,4.72,4.47,4.33,4.14,3.70,3.39
+IMAGE,SSP2-LF-SPA0-V17,World,Emissions|CH4|Other,Mt CH4/yr,0.34,0.35,0.47,0.50,0.33,0.15,0.12,0.13,0.14,0.14,0.13
+IMAGE,SSP2-LF-SPA0-V17,World,Emissions|CH4|Waste,Mt CH4/yr,52,56,56,47,46,47,48,47,47,46,45
